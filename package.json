@@ -5,9 +5,9 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://jestrade.github.com/react"
+    "url": "https://github.com/cristiancho29/suicide-squad-front-end"
   },
-  "author": "@jestrade",
+  "author": "@cdsuarez",
   "dependencies": {
     "axios": "^0.17.0",
     "express": "^4.15.3",
