@@ -1,0 +1,14 @@
+.navbar {
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    background-color: #4484CE;
+    ul{
+        position:relative;
+        li{
+            position:relative;
+            display:inline;
+            padding: 0px 13px 0px 13px;
+        }
+    }
+}
